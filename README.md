@@ -1,1 +1,100 @@
-# AI-Buildathon
+# 🌱 Dijital İmece — Yücel'in Bahçesi
+
+> *"İş içinde, iş aracılığıyla, iş için eğitim."* — Köy Enstitüleri Felsefesi
+
+**Dijital İmece**, Köy Enstitüleri'nin kolektif üretim ve "iş içinde eğitim" felsefesini 21. yüzyılın dijital dünyasına taşıyan hibrit bir öğrenme ekosistemidir. Gençlerin teoriye boğulup asosyalleşmesi, el becerilerinden yoksun kalması ve eleştirel düşünme yetisini kaybetmesi sorununa; Sokratik tartışma, pratik yaşam becerileri ve vicdanlı teknoloji kullanımı ile çözüm üretir.
+
+---
+
+## 🗺️ Proje Özü
+
+| Konu | Açıklama |
+|------|----------|
+| **Proje Adı** | Dijital İmece: Yücel'in Bahçesi |
+| **Durum** | MVP Geliştirme |
+| **Tema** | Toprak Tonları · Gök Mavisi · Doğa Yeşili |
+| **Karakter** | Bilge · Sokratik · Üretken |
+| **SKH Hedefleri** | Hedef 4 (Nitelikli Eğitim) · Hedef 10 (Eşitsizliklerin Azaltılması) |
+
+---
+
+## 🏘️ 6 Ada, 1 Köy
+
+| Ada | Simge | Ruh | İşlev |
+|-----|-------|-----|--------|
+| **Sokratik Amfi** | 🏛️ | Sessiz kütüphane, ama zihinlerin çarpıştığı meydan | Klasik eserler ve güncel konuların Sokratik tartışması |
+| **Zanaat Atölyesi** | 🛠️ | Dağınık ama üretken, ahşap kokulu | Dikiş, yemek, tamirat — kız/erkek işi ayrımı yok |
+| **Gelecek Tarlası** | 🌾 | Tohumların (kodların) atıldığı modern sera | AI araçları etik ve yaratıcı kullanım rehberleri |
+| **Radyo Köy** | 🎶 | Plak cızırtısı ile dijital tınıların buluşması | Müzik, kültür, kolektif beste, podcast |
+| **Gönül Köprüsü** | 🤝 | Ağaç gölgesinde derin sohbet | Kuşaklar arası mentörlük, tersine mentörlük |
+| **Köy Meydanı** | 🌿 | Herkesin birbirini gördüğü ana meydan | İmece takibi, Hayat Ağacı, kolektif puan |
+
+---
+
+## 🦉 Yücel AI — Sokratik Rehber
+
+- **Rolü:** Cevap veren ansiklopedi değil, soru sordurtan Sokratik rehber
+- **Müdahale:** Tartışma 5 dakikadan fazla durursa ateşi harlar
+- **Felsefesi:** Yanlışı "öğrenme fırsatı" olarak kutlar
+- **Motoru:** Anthropic Claude API
+
+---
+
+## 🌿 İmece & Hayat Ağacı
+
+- Biri dikiş diktiğinde ağaç bir **yaprak** açar
+- Biri Amfi'de çözüm ürettiğinde ağaç **meyve** verir
+- Toplam puan köyün görsel kalitesini artırır (yollar düzelir, çiçekler açar)
+- Puanlar **kolektiftir** — bireysel değil
+
+---
+
+## 🚀 Nasıl Çalıştırılır
+
+```bash
+# Repoyu klonla
+git clone https://github.com/kullanici-adi/dijital-imece.git
+cd dijital-imece
+
+# HTML prototipi — doğrudan tarayıcıda aç
+open features/index.html
+
+# React versiyonu
+cd dijital-imece-react
+npm install
+npm run dev
+```
+
+`.env` dosyasına API anahtarını ekle:
+
+```env
+VITE_ANTHROPIC_API_KEY=sk-ant-...
+```
+
+---
+
+## 📁 Proje Yapısı
+
+```
+dijital-imece/
+├── README.md
+├── idea.md
+├── user-flow.md
+├── tech-stack.md
+└── features/
+    ├── index.html
+    ├── amfi/
+    ├── zanaat/
+    ├── gelecek/
+    ├── muzik/
+    ├── gonul/
+    └── meydan/
+```
+
+---
+
+## 🔗 Yayın Linki
+
+> 🌐 **[dijital-imece.vercel.app](https://dijital-imece.vercel.app)** *(MVP aşamasında)*
+
+Her katkı, köyün bir yaprağını açar. 🌳
