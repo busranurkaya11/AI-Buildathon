@@ -1,8 +1,8 @@
-# 🌱 Dijital İmece — Yücel'in Bahçesi
+# 🌱 Yaşayan Okullar
 
 > *"İş içinde, iş aracılığıyla, iş için eğitim."* — Köy Enstitüleri Felsefesi
 
-**Dijital İmece**, Köy Enstitüleri'nin kolektif üretim ve "iş içinde eğitim" felsefesini 21. yüzyılın dijital dünyasına taşıyan hibrit bir öğrenme ekosistemidir. Gençlerin teoriye boğulup asosyalleşmesi, el becerilerinden yoksun kalması ve eleştirel düşünme yetisini kaybetmesi sorununa; Sokratik tartışma, pratik yaşam becerileri ve vicdanlı teknoloji kullanımı ile çözüm üretir.
+**Yaşayan Okullar**, Köy Enstitüleri'nin kolektif üretim ve "iş içinde eğitim" felsefesini 21. yüzyılın dijital dünyasına taşıyan hibrit bir öğrenme ekosistemidir. Gençlerin teoriye boğulup asosyalleşmesi, el becerilerinden yoksun kalması ve eleştirel düşünme yetisini kaybetmesi sorununa; Sokratik tartışma, pratik yaşam becerileri ve vicdanlı teknoloji kullanımı ile çözüm üretir.
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Konu | Açıklama |
 |------|----------|
-| **Proje Adı** | Dijital İmece: Yücel'in Bahçesi |
+| **Proje Adı** |Yaşayan Okullar|
 | **Durum** | MVP Geliştirme |
 | **Tema** | Toprak Tonları · Gök Mavisi · Doğa Yeşili |
 | **Karakter** | Bilge · Sokratik · Üretken |
