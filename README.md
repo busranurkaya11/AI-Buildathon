@@ -5,6 +5,21 @@
 **Yaşayan Okullar**, Köy Enstitüleri'nin kolektif üretim ve "iş içinde eğitim" felsefesini 21. yüzyılın dijital dünyasına taşıyan hibrit bir öğrenme ekosistemidir. Gençlerin teoriye boğulup asosyalleşmesi, el becerilerinden yoksun kalması ve eleştirel düşünme yetisini kaybetmesi sorununa; Sokratik tartışma, pratik yaşam becerileri ve vicdanlı teknoloji kullanımı ile çözüm üretir.
 
 ---
+ Problem
+
+Türkiye'deki kırsal bölgelerde yaşayan çocuklar, kaliteli eğitime erişimde ciddi imkansızlıklar ve fırsat eşitsizliği ile karşı karşıyadır. Mevcut eğitim sistemi çocukların günlük hayatından kopuk kalırken; yerel bilgiler, el becerileri ve geleneksel zanaatlar teknoloji çağında kaybolma tehlikesiyle karşı karşıya kalmaktadır.
+
+🟢 Çözüm
+
+Uygulama, öğrenmeyi gerçek hayatla buluşturur: tohumdan ağaca büyüyen bir köy metaforu üzerinden çocuklar zanaat atölyesi, tarla, mutfak gibi alanlardan görevler seçer ve bunları tamamlayarak kolektif bir **"Hayat Ağacı"**nı büyütürler.
+
+Yücel (🦉) isimli AI rehber, bu süreçte şu rolleri üstlenir:
+
+Sokratik Rehberlik: Cevap vermek yerine soru sorarak çocukları düşünmeye sevk eder ve tartışmaları canlı tutar.
+
+Multimodal Doğrulama: Gemini API kullanarak, çocukların tamamladığı fiziksel görevlerin (dikiş, tamirat, tarım vb.) fotoğraflarını analiz eder ve görevleri doğrular.
+
+Proaktif Motivasyon: Kullanıcı pasif kaldığında veya bir noktada tıkandığında durumu tespit ederek kişiselleştirilmiş motivasyon mesajları gönderir.
 
 ## 🗺️ Proje Özü
 
@@ -48,6 +63,20 @@
 - Puanlar **kolektiftir** — bireysel değil
 
 ---
+
+
+
+
+🛠️ Kullanılan Teknolojiler
+
+Frontend: HTML5, CSS3, Vanilla JavaScript ve React.
+
+AI/Zeka: Gemini 2.0 Flash API (Google AI Studio) ve Anthropic Claude API.
+
+Depolama: LocalStorage (Kullanıcı ilerlemesi ve oturum yönetimi için).
+
+Tasarım: Google Fonts (Playfair Display, Crimson Pro, DM Sans).
+
 
 ## 🚀 Nasıl Çalıştırılır
 
@@ -95,6 +124,8 @@ dijital-imece/
 
 ## 🔗 Yayın Linki
 
-> 🌐 **[dijital-imece.vercel.app](https://dijital-imece.vercel.app)** *(MVP aşamasında)*
+Yayın Linki (Replit): https://ai-buildathon--busranurkaya290.replit.app
+
+Demo Video (YouTube): https://youtu.be/R0LAUvD661s
 
 Her katkı, köyün bir yaprağını açar. 🌳
